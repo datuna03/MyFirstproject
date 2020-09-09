@@ -1,5 +1,5 @@
 
-# sewc usi
+# sewc uni
 
 ***
 Hello world
